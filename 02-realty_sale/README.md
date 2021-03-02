@@ -29,4 +29,4 @@
 - число фотографий квартиры в объявлении.
 
 #### Инструменты:
-Pandas, matplotlib, seaborn
+Pandas, matplotlib, seaborn.
