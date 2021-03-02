@@ -10,4 +10,4 @@
 - лимиты и стоимость услуг связи за предоставленные услуги в рамках тарифов.
 
 #### Инструменты:
-Pandas, matplotlib, seaborn, Scipy, NumPy, math
+Pandas, matplotlib, seaborn, Scipy, NumPy, math.
