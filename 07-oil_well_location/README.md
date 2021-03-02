@@ -7,4 +7,4 @@
 Предоставлены данные геологоразведки в нескольких регионах месторождений с пробами нефти и объемом запасов (тыс.баррелей).
 
 #### Инструменты:
-Pandas, scikit-learn, matplotlib, seaborn, NumPy, машинное обучение (LinearRegression), масштабирование признаков, Bootstrap
+Pandas, scikit-learn, matplotlib, seaborn, NumPy, машинное обучение (LinearRegression), масштабирование признаков, Bootstrap.
