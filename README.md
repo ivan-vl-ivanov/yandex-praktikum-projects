@@ -2,8 +2,8 @@
 # yandex-praktikum-projects
 В данном репозитории представлены проекты, выполненные в рамках обучения в Яндекс.Практикуме, профессии "Специалист по Data Science".
 
-|<img width=200/>#|<img width=1500/>Название проекта|<img width=1000/>Инструменты|
-|:--:|:---------------------------------:| -------------------------- |
+|  #  | Название проекта |Инструменты|
+|:--: |:-----------------| ----------|
 | 01 | [Исследование надёжности заёмщиков](https://github.com/gangspil/yandex-praktikum-projects/tree/master/01-credit_scoring)| Pandas, pymystem3.|
 | 02 | [Исследование объявлений о продаже квартир](https://github.com/gangspil/yandex-praktikum-projects/tree/master/02-realty_sale)| Pandas, matplotlib, seaborn.|
 | 03 | [Определение перспективного тарифа для телеком компании](https://github.com/gangspil/yandex-praktikum-projects/tree/master/03-mobile_tariff_analysis)|Pandas, matplotlib, seaborn, Scipy, NumPy, math.|
